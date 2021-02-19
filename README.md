@@ -1,4 +1,4 @@
-# pizza-delivery-problem
+# Pizza Delivery Problem (PolyAI)
 
 After a long deferment, the mayor of Z-city has allowed pizzerias to be opened in town. Pizzerias used to be unlawful because of health reasons (according to the mayor). The city is big, and suddenly there are pizzerias everywhere.
 
